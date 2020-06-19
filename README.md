@@ -1,0 +1,2 @@
+# nerdneck
+scoreboard for olympics
